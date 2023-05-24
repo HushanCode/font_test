@@ -1,2 +1,3 @@
-# 整理总结后的文章放这里，笔记用notion，总结docs放github
+# 掘金小册： 自动化测试
 
+[小册](https://juejin.cn/book/7174044519350927395?enter_from=course_center&utm_source=course_center)
